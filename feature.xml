@@ -2,13 +2,14 @@
 <feature
       id="com.idega.eclipse.plugins.feature"
       label="com.idega.eclipse.plugins.feature"
-      version="1.0.1"
+      version="1.0.2"
       provider-name="idega">
 
    <install-handler/>
 
    <description>
-      Handy features for the idegaweb suite
+      Handy features for the idegaweb suite.
+Fixed bug when controlling if RemoteExcpetion should be thrown in home interfaces
    </description>
 
    <copyright>
@@ -36,6 +37,6 @@ Use is subject to license terms.
          id="com.idega.eclipse.ejbwizards"
          download-size="0"
          install-size="0"
-         version="1.0.1"/>
+         version="1.0.2"/>
 
 </feature>
