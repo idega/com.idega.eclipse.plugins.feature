@@ -2,13 +2,14 @@
 <feature
       id="com.idega.eclipse.plugins.feature"
       label="com.idega.eclipse.plugins.feature"
-      version="1.0.4"
+      version="1.0.5"
       provider-name="idega">
 
    <install-handler/>
 
    <description>
       Handy features for the idegaweb suite.
+1.0.5 Comma bug in extends clause for interfaces fixed, and the same interface in type stub added only once
 1.0.4 Implemented interfaces in bean extended in interfaces
 1.0.3 Same bug as below 
 1.0.2 Fixed bug when controlling if RemoteExcpetion should be
@@ -41,6 +42,6 @@ Use is subject to license terms.
          id="com.idega.eclipse.ejbwizards"
          download-size="0"
          install-size="0"
-         version="1.0.4"/>
+         version="1.0.5"/>
 
 </feature>
