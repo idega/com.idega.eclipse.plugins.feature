@@ -2,13 +2,13 @@
 <feature
       id="com.idega.eclipse.plugins.feature"
       label="com.idega.eclipse.plugins.feature"
-      version="1.1.0"
+      version="1.1.1"
       provider-name="idega">
-
    <install-handler/>
 
    <description>
-      1.1.0 Eclipse 3.1 updates
+1.1.1 A new version for 3.1M5a
+1.1.0 Eclipse 3.1 updates
 Handy features for the idegaweb suite.
 1.0.5 Comma bug in extends clause for interfaces fixed, and the
 same interface in type stub added only once
@@ -44,6 +44,6 @@ Use is subject to license terms.
          id="com.idega.eclipse.ejbwizards"
          download-size="0"
          install-size="0"
-         version="1.1.0"/>
+         version="1.1.1"/>
 
 </feature>
