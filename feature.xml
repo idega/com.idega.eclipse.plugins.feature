@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.idega.eclipse.plugins.feature"
+      label="com.idega.eclipse.plugins.feature"
+      version="1.0.1"
+      provider-name="idega">
+
+   <install-handler/>
+
+   <description>
+      Handy features for the idegaweb suite
+   </description>
+
+   <copyright>
+      Copyright (C) 2004 Idega Software hf. All Rights Reserved.
+   </copyright>
+
+   <license>
+      This software is the proprietary information of Idega hf.
+Use is subject to license terms.
+   </license>
+
+   <url>
+      <update label="update site" url="http://plugins.idega.is"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.jdt.ui"/>
+   </requires>
+
+   <plugin
+         id="com.idega.eclipse.ejbwizards"
+         download-size="0"
+         install-size="0"
+         version="1.0.1"/>
+
+</feature>
