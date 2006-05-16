@@ -2,12 +2,12 @@
 <feature
       id="com.idega.eclipse.plugins.feature"
       label="com.idega.eclipse.plugins.feature"
-      version="2.0.2"
+      version="2.0.3"
       provider-name="idega">
    <install-handler/>
 
    <description>
-		2.0.2 Fixed some bugs
+		2.0.3 Added missing implementation of Home interface in HomeImpl classes
    </description>
 
    <copyright>
@@ -37,6 +37,6 @@
          id="com.idega.eclipse.ejbwizards"
          download-size="0"
          install-size="0"
-         version="2.0.2"/>
+         version="2.0.3"/>
 
 </feature>
