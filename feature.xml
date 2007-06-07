@@ -37,6 +37,7 @@
          id="com.idega.eclipse.ejbwizards"
          download-size="0"
          install-size="0"
+         unpack="false"
          version="2.1.0"/>
 
 </feature>
